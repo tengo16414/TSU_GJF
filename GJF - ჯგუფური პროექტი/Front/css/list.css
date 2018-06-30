@@ -1,0 +1,93 @@
+.search-block{
+	float: right;
+	overflow: hidden;
+	width: 40%;
+	vertical-align: middle;
+	height: 50px;
+}
+.search-block form{
+	display: inline-block;
+	line-height: 50px;
+}
+.add-button{
+	background: transparent;
+	vertical-align: middle;
+	display: inline-block;
+}
+.button-add-button{
+	background: transparent;
+	padding: 0;
+	height: 30px;
+	border: none;
+}
+.button-add-button img{
+	padding: 2px;
+	vertical-align: middle;
+	border:1px solid #27269d;
+}
+.search-block form{
+	width: 85%;
+}
+.search-block input{
+	width: 100%;
+	height: 30px;
+	border:1px solid #27269d;
+	padding: 3px 5px;
+}
+.content-block{
+	margin:30px 0;
+}
+.wrestler{
+	display: block;
+	margin-left: 10em;
+	overflow: hidden;
+	margin-top:10px;
+	padding-left: 0;
+	padding-top: 15px;
+    padding-bottom: 9px;
+    background: white;
+}
+.wrestler-img{
+	float: left;
+}
+.wrestler-info{
+	float: left;
+	margin-left: 2em; 
+}
+.wrestler-img{
+	width: 250px;
+	overflow: hidden;
+}
+.wrestler-img img{
+	width: 100%;
+}
+.wrestler-name{
+	font-size: 23px;
+	font-weight: bold;
+	padding: 5px;
+}
+.wrestler-region{
+	font-size: 18px;
+	font-weight: 900;
+	padding: 5px;
+}
+.birth-date{
+	font-size: 18px;
+	font-style: italic;
+	padding: 5px;
+}
+.listing-pager{
+	margin-bottom: 20px;
+}
+.listing-pager ul{
+	width: 10%;
+	margin: 0 auto;
+}
+.listing-pager ul li{
+	display: inline-block;
+	line-height: 20px;
+}
+.listing-pager ul li img{
+	height: 24px;
+	vertical-align: middle;
+}

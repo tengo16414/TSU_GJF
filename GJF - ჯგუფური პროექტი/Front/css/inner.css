@@ -1,0 +1,27 @@
+.inner-input-block{
+	background: #e5e2e2;
+}
+.inner-wrapper{
+	margin:30px auto;
+	overflow: hidden;
+	background-color: white;
+	padding-left: 0;
+	padding-top: 13px;
+	
+}
+.inner-img img{
+	margin-bottom: 10px;
+}
+.inner-inputs input{
+	width:100%;
+	padding: 5px;
+	margin-bottom: 20px;
+}
+.inner-info h3, .inner-info div{
+	font-size: 23px;
+	padding: 5px;
+	margin: 10px;
+}
+.inner-info span{
+	font-weight: bold;
+}

@@ -1,0 +1,195 @@
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video {
+border:0;
+font-size:100%;
+vertical-align:baseline;
+margin:0;
+padding:0;
+}
+
+html {
+line-height:1;
+}
+
+ol,ul {
+list-style:none;
+}
+
+table {
+border-collapse:collapse;
+border-spacing:0;
+}
+
+caption,th,td {
+text-align:left;
+font-weight:400;
+vertical-align:middle;
+}
+
+q,blockquote {
+quotes:none;
+}
+
+q:before,q:after,blockquote:before,blockquote:after {
+content:none;
+}
+
+a img {
+border:none;
+}
+
+article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary {
+display:block;
+}
+ul{
+	padding: 0;
+	margin: 0;
+}
+li{
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+}
+.all, header, footer{
+	margin:0 auto;
+	padding: 0;
+	background: #e9ebee;
+}
+.header-top{
+	text-align: right;
+	height: 50px;
+}
+.search-block, .user-block{
+	display: inline-block;
+}
+.user-block{
+	padding-left:30px;
+	background: transparent url('../images/user.png') no-repeat left center;
+}
+.header-top-wrapper{
+	float: right;
+	overflow: hidden;
+	margin-top: 10px;
+	margin-right: 20px;
+}
+.header-top-wrapper form{
+	position: relative;
+	margin-right: 30px;
+}
+
+.header-bottom{
+	background: #27269d;
+	position: relative;
+}
+.navbar-default{
+	background: transparent;
+	border: none;
+	margin: 0;
+}
+.navigation *{
+	height: 100%;
+}
+.navbar-default a{
+	color: white !important;
+	line-height: 3em !important;
+}
+.navbar-default a:hover{
+	border-bottom: 5px solid white;
+}
+.navbar-default .active a{
+	background: transparent !important;
+	border-bottom: 5px solid white;
+}
+
+.nav.navbar-nav{
+	float: right;
+	overflow: hidden;
+}
+.navigation{
+	height: 5em;
+}
+.logo{
+	display: inline-block;
+    position: absolute;
+    top: -50px;
+    left: 10%;
+}
+.home-slide {
+	background-size:cover!important;
+	height:550px;
+	background-position:center center!important;
+}
+
+.home-slider-bl {
+	margin-bottom:23px;
+	position:relative;
+	z-index:998;
+}
+
+.home-slider-bl .bx-wrapper .bx-pager.bx-default-pager a:hover,.home-slider-bl .bx-wrapper .bx-pager.bx-default-pager a.active {
+	background:#665430;
+}
+
+.home-slider-bl .bx-wrapper .bx-pager.bx-default-pager a {
+	background:#aa8e53;
+}
+
+.home-slider-bl .bx-wrapper .bx-pager {
+	background:#d7b46c;
+	display:inline-block;
+	-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+	border-radius:20px;
+	width:auto;
+	padding:15px 33px 14px;
+}
+
+.home-slider-bl .bx-controls {
+	text-align:center;
+	position:relative;
+	bottom:7px;
+}
+footer{
+	height: 5em;
+	color: white;
+	background: #2b2b2b;
+	line-height: 5em;
+}
+.created{
+	text-align: right;
+}
+.tsu-wrapper{
+	position: relative;
+}
+.tsu-logo{
+	height: 70px;
+	position: absolute;
+	top: 5px;
+
+}
+.tsu-text{
+	text-align: center;
+	display: inline-block;
+}
+.add-wrapper{
+	width: 50%;
+	margin: 10px auto;
+	background: white;
+	padding-top: 10px;	
+	text-align: center;
+	height: 400px;
+}
+.add-wrapper form *{
+	display: block;
+	width: 100%;
+	margin: 10px;
+	padding:5px;
+}
+.add-wrapper form{
+	padding: 10px;
+	width: 70%;
+	margin: 0 auto;
+	height: 300px;
+}
+main.container-fluid{
+	height: 700px;
+}
