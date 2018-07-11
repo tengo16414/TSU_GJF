@@ -1,0 +1,19 @@
+﻿პროგრამული სისტემები სპორტის მენეჯმენტში ძიუდოს მაგალითზე
+
+Software systems in sports management by judo example
+
+კლოიანი მანველ,კორახაშვილი ლუკა,ლაცაბიძე გიორგი,მაქანდარაშვილი გია,მირზაშვილი გიორგი,საბაშვილი ირაკლი,ურიდია დავითი,ქოჩლაძე გურამ,შონია საბა,ციყელაშვილი გიორგი,ჭანკვეტაძე მარიამი.
+
+Kloyan Manvel,Korakhashvili Luka,Latsabidze Giorgi,Makandarashvili Gia,Mirzashvili Giorgi,Sabashvili Irakli,Uridia Daviti,Kochladze Guram,Shonia Saba,Tsikelashvili Giorgi,Chankvetadze Mariam.
+
+ფიზიკის მათემატიკური მეცნიერებების დოქტორი დავით ხაჩიძე
+
+Doctor of Physics Mathematical Sciences Davit Khachidze
+
+პროგრამული სისტემები თანამედროვე სპორტში აქტიურად გამოიყენება სხვადასხვა სახის მენეჯმენტსა და ადმინისტრაციულ საკითხებში. ისინი მრავალჯერ ამარტივებენ ტურნირების ორგანიზებისა და ჩატარების პროცესს და საშუალებას აძლევენ სპორტულ ფედერაციებს, მოახდინონ სპორტსმენებისა და თანამშრომლების მართვა და სასურველი ინფორმაციის ორგანიზებულად განთავსება და გავრცელება. ნაშრომში გთავაზობთ ახალ მიდგომას სპორტის მენეჯმენტ სისტემებში ძიუდოს მაგალითზე, რომელიც საშუალებას იძლება ეროვნულ დონეზე ჩატარებულ შეჯიბრებზე შეჯიბრისას საინფორმაციო ტაბლოს მართვასა და ინფორმაციული სახით ჩვენებას. ის ასევე აერთიანებს საქართველოში მოასპარეზე სპორტსმენებისა და ორგანიზებულ ტურნირების ბაზას და სამართავ პანელს. აპლიკაცია შეიცავს ალგორითმს, რომელიც ატარებს ტურნირზე წარდგენილი სპორტსმენების შეწყვილების ცხრილის შედგენა, მოდიფიკაციას. პროგრამის მოხმარება შეუძლია არაავტორიზებულ მომხმარებელს საინფორმაციო მიზნებით და ავტორიზებულ მომხმარებელს სხვადასხვა დონეზე სამართავად. აპლიკაცია გამიზნულია რეალურ დროში ტრანზაქციის რეჟიმზე, აქედან გამომდინარე ნებისმიერ მომხმარებელს შეუძლია თვალი ადევნოს ტურნირის მსვლელობას დისტანციურად ასევე ტურნირზე დამსწრე მაყურებელს ტაბლოს სახით.
+
+In today’s sports world software is widely applied in management and administrative issues. They simplify and fasten the process of organizing and holding a competition while at the same time helping sports’ federations to manage sportsmen and staff members, to track, spread and allocate desirable information in a coherent order. In this thesis, an entirely new approach is offered regarding sports management systems using a judo example. This is mainly to manage information screen by administration and to give information through the screen display to spectators during the contest on a national level. Moreover, the latter forms a database by uniting all the players and held tournaments in Georgia as well as a managing it’s panel. An application includes an algorithm that can make a list of paired contestants and afterwards you are given a chance to modify the timetable. This program can be used by a non-authorized person for informational purposes and by an authorized person for governing occasions on several stages. The application is meant to be working in a real time state, which directly reflects into exchanging information asynchronously from administrator to a spectator. This enables every person to follow the news whether they attend or remotely use a display screen.
+
+საინფორმაციო სისტემა,  სპორტის მენეჯმენტი, ინფორმაციის დამუშავება
+
+information systems, sport management, information processing
